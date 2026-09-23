@@ -12,6 +12,3 @@
 
 **Methoden:** 
 <!-- Welche Techniken/Algorithmen verwendest du? -->
-
-
-![test screenshot](</images/Screenshot 2026-09-23 202621.png>)
