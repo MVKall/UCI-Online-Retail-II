@@ -6,7 +6,7 @@ Auf diesen Charts sieht man den Umsatz und das Auftragsvolumen von Dez (2009) - 
 
 Es gibt noch einige andere Länder unter den Kunden außer dem Vereinigten Königreich. Die anderen Länder machen von der Kundenzahl allerdings nur 8 % aus. Beim Umsatz generieren die Restländer immerhin sogar 15%. Insgesamt bleibt aus Ländersicht im wesentlichen nur UK interessant.
 
-![Chart: -Herkunftsländer der Kunden](images/02-02-Herkunftslaender_der_Kunden.png)
+![Chart: -Herkunftsländer der Kunden](images/02-Herkunftslaender_der_Kunden.png)
 
 Sehr interessant aus wirtschaftlicher Sicht ist die Kundensegmentierung über das RFM-Modell. RFM steht für:
 Recency (Zeitpunkt des letzten Kaufs), 
@@ -24,7 +24,7 @@ und der Medianwert befinden sich ganz unten. Der typische Kunde hat 4 Bestellung
 
 Monetary Value (Umsatz): Hier haben wir ein ähnliches Bild wie bei der Frequency. Das was in Wirklichkeit 90% ausmacht, geht aufgrund der sehr hohen Ausreißer in der Grafik total unter. 
 
-![Chart: -RFM Charts 2](images/03-Kunden-RFM-2.png)
+![Chart: -RFM Charts 2](images/04-Kunden-RFM-2.png)
 
 Auf der 2. Seite der RFM-Analyse kommen weitere Erkenntnisse zum Vorschein. Bei den 3 Charts Oben handelt es sich um eine Heatmap. Sie veranschaulichen sehr viele detallierte Informationen, sind dafür allerdings etwas schwieriger zum Lesen.
 
