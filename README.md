@@ -7,6 +7,7 @@ Wilkommen zu meinem ersten eigenen Portfolioprojekt! Dieses Projekt dient dazu m
 - [Voraussetzungen](#voraussetzungen)
 - [Verwendete Technologien und Bibliotheken](#verwendete-technologien-und-bibliotheken)
 - [Explorative Datenanalyse (EDA)](#explorative-datenanalyse-eda)
+- [Wichtigste Erkenntnisse aus dem Projekt für mich selbst](#Wichtigste-Erkenntnisse-aus-dem-Projekt-für-mich-selbst)
 
 ## Projektüberblick
 ** Analyse des UCI Online-Retail II Datensatzes**
@@ -34,7 +35,7 @@ UCI-Online-Retail-II/
 ├── data/
 ├── .gitignore
 ├── .python-version
-├── or.ipynb
+├── 2026-09-24-online_retail_analyse.ipynb
 ├── pyproject.toml
 ├── README.md
 └── uv.lock
@@ -43,7 +44,7 @@ UCI-Online-Retail-II/
 - **`data/`**: Ordner für die heruntergeladenen Datensätze.
 - **`.gitignore`**: Definiert, welche Dateien von der Versionskontrolle ausgeschlossen werden.
 - **`.python-version`**: Spezifiziert die Python-Version (>=3.14).
-- **`or.ipynb`**: Notebook zu meiner kompletten Analyse
+- **`2026-09-24-online_retail_analyse.ipynb`**: Notebook zu meiner kompletten Analyse
 - **`pyproject.toml`**: Projektkonfigurationsdatei mit Abhängigkeiten.
 - **`README.md`**: Diese Dokumentation.
 - **`uv.lock`**: Lock-Datei für den Paketmanager uv.
@@ -66,4 +67,7 @@ UCI-Online-Retail-II/
 - **Statsmodels**: Statistische Modellierung.
 
 ## Explorative Datenanalyse (EDA)
-Öffnen Sie das Notebook xxx.ipynb in VS Code oder Jupyter und führen Sie es aus, um eine erste Analyse des Datensatzes durchzuführen. (drüber schauen)
+Öffnen Sie das Notebook 2026-09-24-online_retail_analyse.ipynb.ipynb in VS Code oder Jupyter und führen Sie es aus, um eine Analyse des Datensatzes durchzuführen bzw nachzuvollziehen.
+
+## Wichtigste Erkenntnisse aus dem Projekt für mich selbst
+Es lohnt sich von Anfang an strukturiert zu arbeiten und sauber zu dokumentieren. Ich habe das bis zum Ende geschoben und habe dadurch wahrscheinlich ineffizienter gearbeitet.
