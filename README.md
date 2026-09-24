@@ -7,6 +7,7 @@ Wilkommen zu meinem ersten eigenen Portfolioprojekt! Dieses Projekt dient dazu m
 - [Voraussetzungen](#voraussetzungen)
 - [Verwendete Technologien und Bibliotheken](#verwendete-technologien-und-bibliotheken)
 - [Explorative Datenanalyse (EDA)](#explorative-datenanalyse-eda)
+- [Ausführlicher Projektbericht mit allen Power BI Visuals](#Ausführlicher-Projektbericht-mit-allen-Power-BI-Visuals)
 - [Wichtigste Erkenntnisse aus dem Projekt für mich selbst](#Wichtigste-Erkenntnisse-aus-dem-Projekt-für-mich-selbst)
 
 ## Projektüberblick
@@ -71,6 +72,9 @@ UCI-Online-Retail-II/
 
 ## Explorative Datenanalyse (EDA)
 Öffnen Sie das Notebook 2026-09-24-online_retail_analyse.ipynb.ipynb in VS Code oder Jupyter und führen Sie es aus, um eine Analyse des Datensatzes durchzuführen bzw nachzuvollziehen.
+
+## Ausführlicher Projektbericht mit allen Power BI Visuals
+Öffnen Sie die report.md, um zu meiner Online-Präsentation zu gelangen.
 
 ## Wichtigste Erkenntnisse aus dem Projekt für mich selbst
 Es lohnt sich von Anfang an strukturiert zu arbeiten und sauber zu dokumentieren. Ich habe das bis zum Ende geschoben und habe dadurch wahrscheinlich ineffizienter gearbeitet.
