@@ -2,11 +2,11 @@
 
 Auf diesen Charts sieht man den Umsatz und das Auftragsvolumen von Dez (2009) - 2011. Auffallend ist der Anstieg in diesen Kennzahlen im November, vermutlich aufgrund von Weihnachtseinkäufen. Insgesamt unterscheiden sich die Zahlen von 2011 kaum von 2010. 2009 haben wir nur Daten von einem Monat, weswegen hier die Zahlen sehr viel kleiner sind.
 
-![Chart: -Entwicklung des Unternehmens](images/01-Entwicklung des Unternehmens.png)
+![Chart: -Entwicklung des Unternehmens](images/01-Entwicklung_des_Unternehmens.png)
 
 Es gibt noch einige andere Länder unter den Kunden außer dem Vereinigten Königreich. Die anderen Länder machen von der Kundenzahl allerdings nur 8 % aus. Beim Umsatz generieren die Restländer immerhin sogar 15%. Insgesamt bleibt aus Ländersicht im wesentlichen nur UK interessant.
 
-![Chart: -Herkunftsländer der Kunden](images/02-Herkunftsländer der Kunden.png)
+![Chart: -Herkunftsländer der Kunden](images/02-02-Herkunftslaender_der_Kunden.png)
 
 Sehr interessant aus wirtschaftlicher Sicht ist die Kundensegmentierung über das RFM-Modell. RFM steht für:
 Recency (Zeitpunkt des letzten Kaufs), 
