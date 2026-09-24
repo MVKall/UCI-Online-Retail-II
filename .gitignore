@@ -9,3 +9,11 @@ wheels/
 
 # Virtual environments
 .venv
+#data files and powerbi file
+/*.csv
+/*.pbix
+*.csv
+*.pbix
+/test.docx
+/images/gr.zip
+/images/gr2.zip
