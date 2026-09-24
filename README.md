@@ -26,7 +26,7 @@ Der Datensatz besteht aus sehr vielen Zeilen, hat jedoch nur wenig Spalten (8), 
 
 
 **Methoden:** 
-Mit klassischer Data Analyst / Business Analyst Methoden.
+Zuerst habe ich mir einen groben Überblick der Daten mit Python verschafft. Danach habe ich die Daten untersucht und bereinigt. Für die Visualisierung habe ich die bereinigten Daten bei Power BI importiert und dort meine letztendliche Präsentation vorbereitet.
 
 ## Projektstruktur
 Die Projektstruktur ist wie folgt organisiert:
@@ -47,7 +47,7 @@ UCI-Online-Retail-II/
 - **`data/`**: Ordner für die heruntergeladenen Datensätze.
 - **`.gitignore`**: Definiert, welche Dateien von der Versionskontrolle ausgeschlossen werden.
 - **`.python-version`**: Spezifiziert die Python-Version (>=3.14).
-- **`2026-09-24-online_retail_analyse.ipynb`**: Notebook zu meiner kompletten Analyse
+- **`2026-09-24-online_retail_analyse.ipynb`**: Notebook zu meiner ersten Analyse
 - **`pyproject.toml`**: Projektkonfigurationsdatei mit Abhängigkeiten.
 - **`README.md`**: Diese Dokumentation.
 - **`report.md`**: Power BI Visuals, sowie eine kurze Textpräsentation.
@@ -71,10 +71,10 @@ UCI-Online-Retail-II/
 - **Statsmodels**: Statistische Modellierung.
 
 ## Explorative Datenanalyse (EDA)
-Öffnen Sie das Notebook 2026-09-24-online_retail_analyse.ipynb.ipynb in VS Code oder Jupyter und führen Sie es aus, um eine Analyse des Datensatzes durchzuführen bzw nachzuvollziehen.
+Öffnen Sie das Notebook **`2026-09-24-online_retail_analyse.ipynb.ipynb**` in VS Code oder Jupyter und führen Sie es aus, um eine Analyse des Datensatzes durchzuführen bzw nachzuvollziehen.
 
 ## Ausführlicher Projektbericht mit allen Power BI Visuals
-Öffnen Sie die report.md, um zu meiner Online-Präsentation zu gelangen.
+Öffnen Sie die **`report.md**`, um zu meiner Online-Präsentation zu gelangen.
 
 ## Wichtigste Erkenntnisse aus dem Projekt für mich selbst
 Es lohnt sich von Anfang an strukturiert zu arbeiten und sauber zu dokumentieren. Ich habe das bis zum Ende geschoben und habe dadurch wahrscheinlich ineffizienter gearbeitet.
