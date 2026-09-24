@@ -1,4 +1,4 @@
-Wilkommen zu meinem ersten eigenen Portfolioprojekt! Dieses Projekt dient dazu meine erworbenen Data Analysis Fähigkeiten zu vertiefen und zu demonstrieren.
+Wilkommen zu meinem ersten eigenen Portfolioprojekt! Dieses Projekt dient dazu meine erworbenen Data / Business Analysis Fähigkeiten zu vertiefen und zu demonstrieren.
 
 ## Inhaltsverzeichnis
 - [Projektüberblick](#projektüberblick)
@@ -10,7 +10,8 @@ Wilkommen zu meinem ersten eigenen Portfolioprojekt! Dieses Projekt dient dazu m
 - [Wichtigste Erkenntnisse aus dem Projekt für mich selbst](#Wichtigste-Erkenntnisse-aus-dem-Projekt-für-mich-selbst)
 
 ## Projektüberblick
-** Analyse des UCI Online-Retail II Datensatzes**
+**Analyse des UCI Online-Retail II Datensatzes**
+https://www.kaggle.com/datasets/mashlyn/online-retail-ii-uci/data
 
 > Ich analysiere hier einen Datensatz über 1 Millionen Transaktionen über 2 Jahre eines britischen Online-Händlers. Dieses Projekt beinhaltet die Datenbeschaffung, Datenvorverarbeitung, explorative Datenanalyse und Modellierung.
 
@@ -20,11 +21,11 @@ Wilkommen zu meinem ersten eigenen Portfolioprojekt! Dieses Projekt dient dazu m
 Der Datensatz besteht aus sehr vielen Zeilen, hat jedoch nur wenig Spalten (8), wovon nur 2 numerisch sind. Aus der fülle an Informationen sollen Erkenntnisse gewonnen werden, wo sich der Händler entwicklungstechnisch befindet und wie die Kundenlandschaft aussieht
 
 **Ziel:** 
-Überblick erschaffen, wie sich das Unternehmen in den 2 Jahren positioniert hat. Wieviel Umsatz, wieviel Verkäufe,  wieviele Kunden gab es zu welchem Zeitraum. Eome RFM - Analyse (Recency (Zeitpunkt des letzten Kaufs), Frequency (Kaufhäufigkeit), Monetary Value (Umsatz)) duchführen. Jeden Kunden anhand dieser drei Variablen Punkte zuordnen, um sie in unterschiedliche Gruppen zu segmentieren.
+Überblick erschaffen, wie sich das Unternehmen in den 2 Jahren positioniert hat. Wieviel Umsatz, wieviel Verkäufe,  wieviele Kunden gab es zu welchem Zeitraum. Eine RFM - Analyse (Recency (Zeitpunkt des letzten Kaufs), Frequency (Kaufhäufigkeit), Monetary Value (Umsatz)) duchführen. Jeden Kunden anhand dieser drei Variablen Punkte zuordnen, um sie in unterschiedliche Gruppen zu segmentieren. Aus den Erkenntnissen lassen sich Strategien überlegen, ob (potenziell) wichtige Kunden (noch) stärker an uns zu binden. 
 
 
 **Methoden:** 
-Mit klassischer Data Analyst / Business Analyst Methoden. (drüber schauen)
+Mit klassischer Data Analyst / Business Analyst Methoden.
 
 ## Projektstruktur
 Die Projektstruktur ist wie folgt organisiert:
@@ -38,6 +39,7 @@ UCI-Online-Retail-II/
 ├── 2026-09-24-online_retail_analyse.ipynb
 ├── pyproject.toml
 ├── README.md
+├── report.md
 └── uv.lock
 ```
 - **`images/`**: Ordner für die Visuals/Charts
@@ -47,6 +49,7 @@ UCI-Online-Retail-II/
 - **`2026-09-24-online_retail_analyse.ipynb`**: Notebook zu meiner kompletten Analyse
 - **`pyproject.toml`**: Projektkonfigurationsdatei mit Abhängigkeiten.
 - **`README.md`**: Diese Dokumentation.
+- **`report.md`**: Power BI Visuals, sowie eine kurze Textpräsentation.
 - **`uv.lock`**: Lock-Datei für den Paketmanager uv.
 
 
