@@ -2,7 +2,7 @@ Wilkommen zu meinem ersten eigenen Portfolioprojekt! Dieses Projekt dient dazu m
 
 ## Inhaltsverzeichnis
 - [Projektüberblick](#projektüberblick)
-- [Projektübersicht](#projektüberblick)
+- [Projektübersicht](#projektübersicht)
 - [Projektstruktur](#projektstruktur)
 - [Voraussetzungen](#voraussetzungen)
 - [Verwendete Technologien und Bibliotheken](#verwendete-technologien-und-bibliotheken)
