@@ -78,3 +78,5 @@ UCI-Online-Retail-II/
 
 ## Wichtigste Erkenntnisse aus dem Projekt für mich selbst
 Es lohnt sich von Anfang an strukturiert zu arbeiten und sauber zu dokumentieren. Ich habe das bis zum Ende geschoben und habe dadurch wahrscheinlich ineffizienter gearbeitet.
+
+test
